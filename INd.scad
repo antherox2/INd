@@ -2,7 +2,7 @@
 //Essential Oils Aromatherapy inhaler
 
 $fa = 1;
-$fs = 0.01; //0.01 for rendering, reduce to 0.1 for quick work
+$fs = 0.01; //0.01 for rendering, increase for quick work
 
 module unit_body() {
     body_length = 1;
